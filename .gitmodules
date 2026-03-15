@@ -1,0 +1,8 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/jollyboss123/clio-backend
+	branch = main
+[submodule "mobile"]
+	path = mobile
+	url = https://github.com/jollyboss123/clio-mobile
+	branch = main
